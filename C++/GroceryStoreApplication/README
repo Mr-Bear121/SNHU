@@ -1,1 +1,30 @@
+This project was created to solve a corner grocers problem with inventory management.
+During an unspecified period of time the grocer logs the names of items bought during the day.
+They keep the data in a no-sql database "a .txt file" with no unique terms.
+they had me write a program to search for a term and output the frequency of that term within the database.
+they also wanted the ability to dump the contents of the database as unique terms with their associated frequency beside them.
+they wanted to dump the contents and print a histogram.
+they needed to exit the program and finally have a secret 5th option to backup the data as a map or a dictionary with the unique term and its frequency.
 
+The part of the program that I felt particularly proud of was the main logic. 
+I used a switch case statement that was clear, concise and modular.
+all I have to do to scale the program up or down is to add or remove cases to the program.
+
+In order to enhance my code I realized that a few attributes and methods should be encapsulated in my database object "Inventory".
+However, it was good enough for prototyping.
+I decided to leave a not near it and continue programing.
+If I had time later, I could fix it. However, I need to get the program working first.
+
+I didn`t find this project too challenging. I had taken a Harvard course on the topic of C before.
+so, The topic of C++ wasnt too difficult since they are highly related.
+
+Everything that I did for this project and beyond can be transfered to other project and course work.
+Despite the differences between languages, I find that they have more in common than different.
+Therefore, any algorithm or method that I used or created can be used for other languages.
+You can do this, as long as you make it complient with that language.
+In this case, any logic you used for C++ you could use for Python as long as you make it Python complient.
+
+I tried to make my program maintainable, readable, and adaptable by keeping Object-Oriented Principles in mind.
+anything that had to deal with a database, I made sure to keep it in my database object.
+Anything that dealt with my main logic, I kept in my main code.
+This helps keep out any possible spaghetti code and keeps it clear, concise and readable.
