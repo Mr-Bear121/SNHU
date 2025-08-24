@@ -3,7 +3,7 @@ cs 320
 Southern New Hampshire University
 08/24/2024
 
-The following software focus was on creating a test service and creating Unit Tests associated with them.
+The following software focuses on creating a contact service and creating Unit Tests associated with them.
 
 The software requirements for these services were outlined beforehand.
 
