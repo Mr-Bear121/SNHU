@@ -1,0 +1,26 @@
+
+    Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
+
+         The scenario for this application was that A WareHouse company wanted me to create an application to taking inventory with. There were many possible users I could design this application for, managers, supervisor and staff.
+         I decided that the primary client for this application would be WareHouse Staff. The main requirement for this application was to include a RecycleView that contained information from an attached database that contained the correct data.
+
+    What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
+
+         The man screen required for this application to work was a login screen and an inventory screen. I kept the UI barebones for prototyping purposes since after we make the actual piping work correctly. We can make it look as we want it too.
+         My design was successful for prototyping purposes, However, I should expand the features included in this application by including a menu and other features.
+
+    How did you approach the process of coding your app? What techniques or strategies did you use? How could those techniques or strategies be applied in the future?
+
+        The process that I always use when developing an application is to first define the scope of the application, design the features and code finally, start coding and experimenting, updating the documentation as I need to.
+
+    How did you test to ensure your code was functional? Why is this process important, and what did it reveal?
+
+        I tested to ensure that the code was functional by testing it as an individual component and running by itself. It is easy to write code. It is difficult to write working code.
+
+    Consider the full app design and development process from initial planning to finalization. Where did you have to innovate to overcome a challenge?
+
+        I had to innovate with the recycler view. I didnt have much experience with android studio before this class. I had to experiment with some test values before I hooked up the View to a database.
+
+    In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+
+      I was able to demonstrate my knowledge and skill with the priviously mention recycler view.
