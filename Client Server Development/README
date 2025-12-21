@@ -1,0 +1,62 @@
+Project Description: 
+
+Grazioso Salvare Dashboard is an interactive web application desifned to filter and display data on Animal Outcomes It contains an interactive filter, an interactive data table, a geolocation chart, and a pie chart. 
+
+ 
+
+Tools Used: 
+
+Python: used for scripting and data manipulation. 
+
+Dash: used as a Framework for building web applications. 
+
+MongoDB: our database used for storing and retrieving animal data 
+
+Plotly: used for creating interactive charts and graphs 
+
+ 
+
+MongoDB Explanation: 
+
+MongoDB was chosen for its ability to handle large volumes of unstructured data. It was also chosen for its ability to ease of use when interfacing with Python via the Pymongo library. 
+
+ 
+
+Dash Framework Explanation: 
+
+Dash was chosen to provide a simple yet powerful framework for building web applications in conjunction with Python. It allows for interactive, real-time data visualization and integrates seamlessly with Plotly when creating charts and maps. 
+
+ 
+
+Steps Taken: 
+
+Setup MongoDB and Python Environment. 
+
+Develop CRUD Operations: implemented in Animal_Shelter.py 
+
+Build Dashboard Layout: Created interactive filters, data tables, and charts in ProjectTwoDashboard.ipynb 
+
+Implement callbacks: added interactivity to update charts and data tables based on filters. 
+
+Testing and debugging: ensured that all components worked as intended. 
+
+ 
+
+Challenges and solutions: 
+
+Authentication errors: if this occurs then adjust the parameters of the CRUD module to resolve these issues. 
+
+
+
+    How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two.
+    What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+
+         In order to keep my programs readable, mainatainable and adaptable I tried to follow object oriented principals and keep code modular. The benefit to working this way is it allows you to maintain a program as previously described.
+         Working in an object oriented way also allows for you to test code in a reasonable manner since it is all chopped up into bit sized actions. In the future, I can use the concepts learned from this python module to create my own servers 
+         and websites. Which, I infact plan on doing after I graduate.
+
+    How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+    What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+
+         Whenever I encounter a problem, I start off with the problem, the solution and the steps taken towards the solution. I do this by breaking down the problem into smaller problems until I have a problem with an obvoius solution.
+         I then enact it and continue building upon my success until the total problem is solved. This also allows me to gain wisdom and experience when dealing with similar problems in the future.
