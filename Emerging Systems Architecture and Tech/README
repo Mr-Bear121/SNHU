@@ -1,0 +1,26 @@
+Summarize the project and what problem it was solving.
+
+     This project is the culmination of 8 weeks of several minor projects. These include hooking up and testing an LCD screen. 
+attaching several buttons to lights and programing them to make sure they are working correctly. 
+All this to create a working Thermostat that can detect the temperature in a room and several lights to indicate if the thermostat is trying to heat or cool a room or is simply turned off.
+Through a Serial UART port, we can send information to and from the device to simulate data coming to a server.
+
+What did you do particularly well?
+
+     The part I believed I did particularly well was the actual coding since this is my main specialty. However, there were several problems that did occur.
+These problems involved the device itself. I often found myself questioning whether my components actually worked at all and I had to buy new ones just to makes sure that this wasn`t the case.
+
+Where could you improve?
+
+     I could improve my understanding of how the tempurature sensor works. The library involved with this is rather complicated and I should take more time to understand it.
+
+What skills from this project will be particularly transferable to other projects and/or course work?
+
+     Everything from this project is transferable. However, the mains skills I`ll mention is testing as a skill and understanding the relationship between the physical world and the digital.
+For many years it has been a mystery to my how do you program simple devices with code. What are the specifics to this art? I now understand this concept in more detail and feel more confident in
+attempting to do it myself in the future.
+
+How did you make this project maintainable, readable, and adaptable?
+
+     I tried to keep all my work in functions. Functions are the definition of readable, maintainable and adaptable. Also, when using naming conventions, I tried to represent what I was doing
+with appropriate names and comments.
