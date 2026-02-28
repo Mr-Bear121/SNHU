@@ -1,0 +1,24 @@
+Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+
+     The owner of DriverPass believes he can create a better system to pass students then what is currently available.
+     The client is the owner of DriverPass. He wants the system to be able to create an account, register students, select a driving package, get online training and take on the road practice.
+     The owner will have access to all the accounts of students and employees.
+
+What did you do particularly well?
+
+     I believe I made sure the completeness and precision were done particularly well. Completeness helps to facilitate communication will all parties involved and was a priority for me.
+
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+
+     I would revise my non-functional requirements. It wasn`t at first obvious to me what was considered a functional or non-functional requirement. However, I believe a have a better grasp of it now.
+
+How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+
+     The first thing I made sure to do was re-read what the user said. I then tried to write them down and summarise them, gathering all requirements that I needed.
+     Afterwards, I diagramed out the technical steps that I would need to take to enact these requirements.
+
+How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+
+     When designing software, I first must determine the scope of the project. I must make sure that the first itteration of the project is well defined and communicated.
+     Diagrams help facilitate this. After the scope is defined, I then have to determine how to actually create the software according to object oriented principals (OOP).
+     I can then design the individual steps that need to be taken in order to complete the project.
