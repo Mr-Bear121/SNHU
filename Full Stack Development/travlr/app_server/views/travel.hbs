@@ -9,27 +9,29 @@
 <body>
 	<div id="background">
 		<div id="page">
-			{{> header }}
+			{{> header}}
+			</div>
 			<div id="contents">
 				<div class="box">
 					<div>
 						<div class="body">
 							<h1>Travel</h1>
 							<ul id="sites">
-								{{#each}}
+					{{#each trips}}
 								<li>
-									<a href="/travel"><imgsrc="images/{{this.image}} alt="Img"</a>
-									<h2><a href="/travel"> {{this.name}}></a></h2>
+									<a href=/api/trips/{{this.code}}><img src="images/{{this.image}}" alt="Img"></a>
+									<h2><a href=“travel.html">{{this.name}}</a></h2>
 									{{{this.description}}}
+									
 								</li>
-								{{/each}}
+					{{/each}}
 							</ul>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-		{{> footer}}
+		{{>footer}}
 			<p>
 				© 2023 by BHACCASYONIZTAS BEACH RESORT. All Rights Reserved
 			</p>
