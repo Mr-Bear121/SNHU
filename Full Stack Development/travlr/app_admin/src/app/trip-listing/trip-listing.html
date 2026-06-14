@@ -1,0 +1,13 @@
+<!-- <pre>{{trips | json}}</pre> -->
+<div class="row">
+<div>
+
+  <button (click)="addTrip()" class="btn btnl-info"> Add Trip</button>
+
+</div>
+  <div *ngFor="let trip of trips" class="col-md-4">
+    <!-- we have an issue where we can only get the page to display if we delete an element and save-->
+    <app-trip-card [trip]="trip" class="card-deck mt-2"></app-trip-card>
+
+  </div>
+</div>
